@@ -4,7 +4,7 @@ pipelineJob("pipeline-seed-nightly-build"){
 			scm {
 				git {
 					remote {
-						url "https://github.com/dhruv294/seek_job.git"
+						url "https://github.com/dhruv294/job_seek_task.git"
 
 					}
 				}
