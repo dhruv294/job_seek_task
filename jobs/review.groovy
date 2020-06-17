@@ -9,7 +9,7 @@ pipelineJob("pipeline-seed-review-build"){
                             
                         }
                 }
-                scriptPath "pipeline/jenkinsfile-review"
+                scriptPath "pipeline/Jenkinsfile-review"
             }
         }
 	}

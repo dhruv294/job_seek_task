@@ -9,7 +9,7 @@ pipelineJob("pipeline-seed-release-build"){
                             
                         }
                 }
-                scriptPath "pipeline/jenkinsfile-release"
+                scriptPath "pipeline/Jenkinsfile-release"
             }
         }
 	}

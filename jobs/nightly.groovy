@@ -8,7 +8,7 @@ pipelineJob("pipeline-seed-nightly-build"){
 
 					}
 				}
-				scriptPath "pipeline/jenkinsfile-nightly"
+				scriptPath "pipeline/Jenkinsfile-nightly"
 			}
 		}
 	}
